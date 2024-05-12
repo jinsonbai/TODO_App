@@ -14,7 +14,7 @@ $(document).ready(function() {
     });
 });
 
-
+// new
 $(document).ready(function() {
     
     $('#logout').click(function(event) {
